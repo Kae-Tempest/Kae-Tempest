@@ -22,7 +22,7 @@
 
 #### - Database:
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/PgSQL-005C84?style=for-the-badge&logo=pgsql&logoColor=white)
+![PgSQL](https://img.shields.io/badge/PgSQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### - Web Tools:
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
