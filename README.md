@@ -19,6 +19,7 @@
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-f43a2f?style=for-the-badge&logo=laravel&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-0a3c29?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 #### - Database:
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
